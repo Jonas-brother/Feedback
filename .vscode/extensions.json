@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "johnsoncodehk.vscode-typescript-vue-plugin",
+    "sdras.vue-vscode-snippets",
+    "hollowtree.vue-snippets",
+    "abusaidm.html-snippets"
+  ]
+}
